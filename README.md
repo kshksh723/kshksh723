@@ -18,3 +18,6 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsh723)](https://so
 
 
 <a href="https://velog.io/@lily_99"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@lily_99"/></a>
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkshksh723&count_bg=%23FAE3FF&title_bg=%23DCA1F2&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/kshksh723)
