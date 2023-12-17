@@ -27,6 +27,7 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsh723)](https://so
 <h3 align="center"> RECORD </h3>
 <div align="center">
 <a href="https://velog.io/@lily_99"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@lily_99"/></a>
+<a href="https://it-xxsh.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistorylogoColor=white"></a>
 </div>
 
 
