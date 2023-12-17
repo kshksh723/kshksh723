@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=WElCOME&fontSize=90)
+
+
 
 <h3 align="center"> 💻 My Github Stats 💻 </h3>
 <div align="center">
