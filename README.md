@@ -8,6 +8,7 @@
 
 [![kshksh723 GitHub stats](https://github-readme-stats.vercel.app/api?username=kshksh723&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/kshksh723/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshksh723&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </br>
