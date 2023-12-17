@@ -1,9 +1,16 @@
 
+<h3 align="center"> My Github Stats </h3>
+<div align="center">
+
+[![kshksh723 GitHub stats](https://github-readme-stats.vercel.app/api?username=kshksh723&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/kshksh723/github-readme-stats)
+
+</br>
 
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsh723)](https://solved.ac/kimsh723)
+</div>
 
-
+</br>
 
 
 <div align="center"><h3>📚 Tech Stacks 📚 </h3> 
@@ -19,12 +26,10 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsh723)](https://so
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> </div>
 
 
-<a href="https://velog.io/@lily_99"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@lily_99"/></a>
-
-
-
-<h3 align="center"> My Github Stats </h3>
+<h3 align="center"> RECORD </h3>
 <div align="center">
-
-[![kshksh723 GitHub stats](https://github-readme-stats.vercel.app/api?username=kshksh723&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/kshksh723/github-readme-stats)
+<a href="https://velog.io/@lily_99"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@lily_99"/></a>
 </div>
+
+
+
