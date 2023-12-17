@@ -30,7 +30,9 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsh723)](https://so
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> </div>
+
 </br>
+
 <h3 align="center"> RECORD </h3>
 <div align="center">
 <a href="https://velog.io/@lily_99"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@lily_99"/></a>
