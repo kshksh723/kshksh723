@@ -40,8 +40,3 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimsh723)](https://so
 <a href="https://it-xxsh.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistorylogoColor=white"></a>
 </div>
 
-[![코드트리|실력진단-kshksh723](https://banner.codetree.ai/v1/banner/kshksh723)](https://www.codetree.ai/profiles/kshksh723)
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkshksh723&count_bg=%23548AD4&title_bg=%236E6D6D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
