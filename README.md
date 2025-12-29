@@ -13,6 +13,8 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshksh723&layout=donut)
 
+
+
 </div>
 </br>
 <div align="center"><h3>📚 Tech Stacks 📚 </h3> 
@@ -22,14 +24,18 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> 
@@ -39,4 +45,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
   <br>
 
+
 </div>
+
